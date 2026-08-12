@@ -1,5 +1,3 @@
-
-app_py_content = """
 import streamlit as st
 import pandas as pd
 import joblib
@@ -183,4 +181,4 @@ st.write(
 
 
 
-    """
+
