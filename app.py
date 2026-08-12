@@ -49,7 +49,7 @@ attendance_percentage = st.number_input(
     min_value=0,
     max_value=100,
     value=75,
-    step=0.1
+    step=1
 )
 
 
